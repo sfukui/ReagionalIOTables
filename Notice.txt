@@ -1,0 +1,110 @@
+The data on which the explanatory variables are based were obtained from the following websites.
+    Portal Site of Official Statistics of Japan website (https://www.e-stat.go.jp/)
+
+The input-output table data for each region have been reclassified into 12 industry categories.
+The sources are as follows:
+
+Japan: The input-output table has been modified from the following data.
+    Input-Output Table 2015 (https://www.soumu.go.jp/toukei_toukatsu/data/io/ichiran.htm)
+
+Prefecture
+Hokkaido: The input-output table has been modified from the following data.
+    Hokkaido Input-Output Table 2015 (https://www.hkd.mlit.go.jp/ky/ki/keikaku/u23dsn0000001ma0.html)
+Aomori: The input-output table has been modified from the following data.
+    Aomori Prefecture Input-Output Table 2015 (https://opendata.pref.aomori.lg.jp/dataset/1597.html)
+Iwate: The input-output table has been modified from the following data.
+    Iwate Prefecture Input-Output Table 2015 (https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/top.html)
+Miyagi: The input-output table has been modified from the following data.
+    Miyagi Prefecture Input-Output Table 2015 (https://www.pref.miyagi.jp/soshiki/toukei/rennkann.html), Miyagi Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Akita: The input-output table has been modified from the following data.
+    Akita Prefecture Input-Output Table 2015 (https://www.pref.akita.lg.jp/pages/archive/53289)
+Yamagata: The input-output table has been modified from the following data.
+    Yamagata Prefecture Input-Output Table 2015 (https://www.pref.yamagata.jp/020052/kensei/shoukai/toukeijouhou/sangyourenkanhyou-1/h17sangyorenkan.html), Yamagata Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Fukushima: The input-output table has been modified from the following data.
+    Fukushima Prefecture Input-Output Table 2015 (https://www.pref.fukushima.lg.jp/sec/11045b/17023.html), Fukushima Prefecture, CC BY 2.1 JP.（http://creativecommons.org/licenses/by/2.1/jp/）
+Ibaraki: The input-output table has been modified from the following data.
+    Ibaraki Prefecture Input-Output Table 2015 (https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/sangyo/io27/index.html)
+Tochigi: The input-output table has been modified from the following data.
+    Tochigi Prefecture Input-Output Table 2015 (https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/io.html)
+Gunma: The input-output table has been modified from the following data.
+    Gunma Prefecture Input-Output Table 2015 (https://toukei.pref.gunma.jp/gio/gio2015.htm), Gunma Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Saitama: The input-output table has been modified from the following data.
+    Saitama Prefecture Input-Output Table 2015 (https://www.pref.saitama.lg.jp/a0206/a152/index.html)
+Chiba: The input-output table has been modified from the following data.
+    Chiba Prefecture Input-Output Table 2015 (https://www.pref.chiba.lg.jp/toukei/toukeidata/sangyou/h27/index.html), Chiba Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Tokyo: The input-output table has been modified from the following data.
+    Tokyo Input-Output Table 2015 (https://www.toukei.metro.tokyo.lg.jp/sanren/2015/sr15t1.htm), Tokyo, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Kanagawa: The input-output table has been modified from the following data.
+    Kanagawa Prefecture Input-Output Table 2015 (https://www.pref.kanagawa.jp/docs/x6z/tc20/sanren/newest.html), Kanagawa Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Niigata: The input-output table has been modified from the following data.
+    Niigata Prefecture Input-Output Table 2015 (https://www.pref.niigata.lg.jp/site/tokei/0358603.html), Niigata Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Toyama: The input-output table has been modified from the following data.
+    Toyama Prefecture Input-Output Table 2015 (https://www.pref.toyama.jp/sections/1015/lib/renkan/index.html)
+Yamanashi: The input-output table has been modified from the following data.
+    Yamanashi Prefecture Input-Output Table 2015 (https://www.pref.yamanashi.jp/toukei_2/DB/EDD/dbkeizai06.html)
+Nagano: The input-output table has been modified from the following data.
+    Nagano Prefecture Input-Output Table 2015 (https://www.pref.nagano.lg.jp/tokei/tyousa/sangyorenkan.html), Nagano Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Gifu: The input-output table has been modified from the following data.
+    Gifu Prefecture Input-Output Table 2015 (https://www.pref.gifu.lg.jp/page/25991.html), Gifu Prefecture, CC BY 2.1 JP.（http://creativecommons.org/licenses/by/2.1/jp/）
+Shizuoka: The input-output table has been modified from the following data.
+    Shizuoka Prefecture Input-Output Table 2015 (https://toukei.pref.shizuoka.jp/search?class=15&invest=15050), Shizuoka Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Aichi: The input-output table has been modified from the following data.
+    Aichi Prefecture Input-Output Table 2015 (https://www.pref.aichi.jp/soshiki/toukei/io2015.html), Aichi Prefecture, CC BY 2.1 JP.（http://creativecommons.org/licenses/by/2.1/jp/）
+Mie: The input-output table has been modified from the following data.
+    Mie Prefecture Input-Output Table 2015 (https://www.pref.mie.lg.jp/DATABOX/00006816699_00001.htm), Mie Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Shiga: The input-output table has been modified from the following data.
+    Shiga Prefecture Input-Output Table 2015 (https://www.pref.shiga.lg.jp/kensei/tokei/sonota/sangyou/317842.html), Shiga Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Kyoto: The input-output table has been modified from the following data.
+    Kyoto Input-Output Table 2015 (https://www.pref.kyoto.jp/tokei/cycle/sanren/sanrentop.html), Kyoto, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Osaka: The input-output table has been modified from the following data.
+    Osaka Input-Output Table 2015 (https://www.pref.osaka.lg.jp/o040090/toukei/sanren/sanren_k-io15k000.html), Osaka, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Hyogo: The input-output table has been modified from the following data.
+    Hyogo Prefecture Input-Output Table 2015 (https://web.pref.hyogo.lg.jp/kk11/h27sangyourenkantoukeihyou.html), Hyogo Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Wakayama: The input-output table has been modified from the following data.
+    Wakayama Prefecture Input-Output Table 2015 (https://www.pref.wakayama.lg.jp/prefg/020300/sangyo/h27/d00203979.html), Wakayama Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Shimane: The input-output table has been modified from the following data.
+    Shimane Prefecture Input-Output Table 2015 (https://pref.shimane-toukei.jp/index.php?view=21470)
+Okayama: The input-output table has been modified from the following data.
+    Okayama Prefecture Input-Output Table 2015 (https://www.pref.okayama.jp/page/detail-16600.html)
+Hiroshima: The input-output table has been modified from the following data.
+    Hiroshima Prefecture Input-Output Table 2015 (https://www.pref.hiroshima.lg.jp/site/toukei/sangyorenkanhyo.html), Hiroshima Prefecture, CC BY 2.1 JP.（http://creativecommons.org/licenses/by/2.1/jp/）
+Yamaguchi: The input-output table has been modified from the following data.
+    Yamaguchi Prefecture Input-Output Table 2015 (https://www.pref.yamaguchi.lg.jp/soshiki/22/15720.html), Yamaguchi Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Tokushima: The input-output table has been modified from the following data.
+    Tokushima Prefecture Input-Output Table 2015 https://www.pref.tokushima.lg.jp/statistics/year/io/
+Kagawa: The input-output table has been modified from the following data.
+    Kagawa Prefecture Input-Output Table 2015 (https://www.pref.kagawa.lg.jp/tokei/keizai/io/2015io.html)
+Ehime: The input-output table has been modified from the following data.
+    Ehime Prefecture Input-Output Table 2015 (https://www.pref.ehime.jp/page/3012.html)
+Kochi: The input-output table has been modified from the following data.
+    Kochi Prefecture Input-Output Table 2015 (https://www.pref.kochi.lg.jp/doc/sanren27/)
+Fukuoka: The input-output table has been modified from the following data.
+    Fukuoka Prefecture Input-Output Table 2015 (https://ckan.open-governmentdata.org/dataset/401000_sangyourenkanhyou_h27)
+Saga: The input-output table has been modified from the following data.
+    Saga Prefecture Input-Output Table 2015 (https://www.pref.saga.lg.jp/toukei/kiji00373733/index.html), Saga Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Nagasaki: The input-output table has been modified from the following data.
+    Nagasaki Prefecture Input-Output Table 2015 (https://www.pref.nagasaki.jp/bunrui/kenseijoho/toukeijoho/renkan/27io/), Nagasaki Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Kumamoto: The input-output table has been modified from the following data.
+    Kumamoto Prefecture Input-Output Table 2015 (https://www.pref.kumamoto.jp/soshiki/20/50333.html), Kumamoto Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Oita: The input-output table has been modified from the following data.
+    Oita Prefecture Input-Output Table 2015 (https://www.pref.oita.jp/site/toukei/sangyo.html), Oita Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Miyazaki: The input-output table has been modified from the following data.
+    Miyazaki Prefecture Input-Output Table 2015 (https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/bunsekifile.html), Miyazaki Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Kagoshima: The input-output table has been modified from the following data.
+    Kagoshima Prefecture Input-Output Table 2015 (https://www.pref.kagoshima.jp/tokei/bunya/keizai/renkan/), Kagoshima Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+
+City:
+Sapporo(Hokkaido): The input-output table has been modified from the following data.
+    Sapporo City Input-Output Table 2015 (https://www.city.sapporo.jp/toukei/sna/sna.html), Sapporo City, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Saitama(Saitama): The input-output table has been modified from the following data.
+    Saitama City Input-Output Table 2015 (https://www.city.saitama.lg.jp/006/013/007/p079996.html), Saitama City, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Yokohama(Kanagawa): The input-output table has been modified from the following data.
+    Yokohama City Input-Output Table 2015 (https://www.city.yokohama.lg.jp/business/kigyoshien/tokei-chosa/rennkannhyou.html), Yokohama City, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Kawasaki(Kanagawa): The input-output table has been modified from the following data.
+    Kawasaki City Input-Output Table 2015 (https://www.city.kawasaki.jp/shisei/category/51-4-6-2-6-0-0-0-0-0.html), Kawasaki City, CC BY 2.1 JP.（http://creativecommons.org/licenses/by/2.1/jp/）
+Gujo(Gifu): The input-output table has been modified from the following data.
+    Gujo City Input-Output Table 2015 (https://www.city.gujo.gifu.jp/admin/info/post-859.html)
+Okayama(Okayama): The input-output table has been modified from the following data.
+    Okayama City Input-Output Table 2015 (https://www.city.okayama.jp/shisei/0000019899.html), Okayama City, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
+Fukuoka(Fukuoka): The input-output table has been modified from the following data.
+    Fukuoka City Input-Output Table 2015 (https://www.city.fukuoka.lg.jp/soki/tokeichosa/shisei/toukei/renkanhyo/sangyorenkanhyo.html)
