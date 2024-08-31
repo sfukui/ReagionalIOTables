@@ -10,16 +10,16 @@ The data of the economic variables used as the basis for the explanatory variabl
 
 | Name | Data | Unit | Source |
 | --- | --- | --- | --- |
-| `SFirm_[id_s]` | Number of establishments (minor classification) |  | 2014 Economic Census for Business Frame |
-| `SEmp_[id_s]` | Number of employees (minor classification) |  | 2014 Economic Census for Business Frame |
-| `VA_[id_l]` | Added value (large classification) |  | 2012 Economic Census for Business Activity |
-| `Sales_[id_l]` | Sales (large classification) |  | 2012 Economic Census for Business Activity |
-| `Firm_[id_l]` | Number of establishments (large classification) |  | 2012 Economic Census for Business Activity |
-| `Income` | Taxable income |  | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
-| `TP` | Taxpayer |  | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
-| `PopLF` | Population in labor force |  | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
-| `Unemp` | Number of unemployed persons |  | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
-| `Pop15` | Total population (15 and over) |  | Calculated by the author from Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
+| `SFirm_[id_s]` | Number of establishments (minor classification) | Number of establishments | 2014 Economic Census for Business Frame |
+| `SEmp_[id_s]` | Number of employees (minor classification) | Number of people | 2014 Economic Census for Business Frame |
+| `VA_[id_l]` | Added value (large classification) | Millions of Japanese yen | 2012 Economic Census for Business Activity |
+| `Sales_[id_l]` | Sales (large classification) | Millions of Japanese yen | 2012 Economic Census for Business Activity |
+| `Firm_[id_l]` | Number of establishments (large classification) | Number of establishments | 2012 Economic Census for Business Activity |
+| `Income` | Taxable income | Thousands of Japanese yen | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
+| `TP` | Taxpayer | Number of people | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
+| `PopLF` | Population in labor force | Number of people | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
+| `Unemp` | Number of unemployed persons | Number of people | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
+| `Pop15` | Total population (15 and over) | Number of people | Calculated by the author from Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
 
 ### Large Industry Classification
 

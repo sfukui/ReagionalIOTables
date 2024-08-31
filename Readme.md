@@ -2,7 +2,7 @@
 
 ## About The Project
 
-In this project, we provide the intermediate inputs and gross products of the input-output tables and macroeconomic data for the regions in Japan, which were used to construct the regional input coefficient estimation model in the following paper:
+In this project, we provide the intermediate inputs and gross products of the input-output tables and macroeconomic data of the regions in Japan, which were used to construct the regional input coefficient estimation model in the following paper:
 
 * Shogo Fukui(2024), "Estimating Input Coefficients for Regional Input–Output Tables Using Deep Learning with Mixup", _Computational Economics._ (https://doi.org/10.1007/s10614-024-10641-1)
 
