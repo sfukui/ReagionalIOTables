@@ -12,14 +12,17 @@ The data of the economic variables used as the basis for the explanatory variabl
 | --- | --- | --- | --- |
 | `SFirm_[id_s]` | Number of establishments (minor classification) | Number of establishments | 2014 Economic Census for Business Frame |
 | `SEmp_[id_s]` | Number of employees (minor classification) | Number of people | 2014 Economic Census for Business Frame |
-| `VA_[id_l]` | Added value (large classification) | Millions of Japanese yen | 2012 Economic Census for Business Activity |
-| `Sales_[id_l]` | Sales (large classification) | Millions of Japanese yen | 2012 Economic Census for Business Activity |
-| `Firm_[id_l]` | Number of establishments (large classification) | Number of establishments | 2012 Economic Census for Business Activity |
+| `VA_[id_l]` | Added value (large classification) | Millions of Japanese yen | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
+| `Sales_[id_l]` | Sales (large classification) | Millions of Japanese yen | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
+| `Firm_[id_l]` | Number of establishments (large classification) | Number of establishments | 2014 Economic Census for Business Frame |
 | `Income` | Taxable income | Thousands of Japanese yen | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
 | `TP` | Taxpayer | Number of people | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
 | `PopLF` | Population in labor force | Number of people | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
 | `Unemp` | Number of unemployed persons | Number of people | Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
 | `Pop15` | Total population (15 and over) | Number of people | Calculated by the author from Statistical Observations of Prefectures 2015 and Statistical Observations of Municipalities 2015 |
+
+[!NOTE]
+As shown in the table above, the citations for the data, `VA_[id_l]`, `Sales_[id_l]`, and `Firm_[id_l]`, in Table 1 of [the original paper](https://link.springer.com/article/10.1007/s10614-024-10641-1) have been corrected. These corrections do not affect the original paper's analysis results.
 
 ### Large Industry Classification
 
