@@ -94,17 +94,27 @@ Kagoshima: The input-output table has been modified from the following data.
     Kagoshima Prefecture Input-Output Table 2015 (https://www.pref.kagoshima.jp/tokei/bunya/keizai/renkan/), Kagoshima Prefecture, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
 
 City:
-Sapporo(Hokkaido): The input-output table has been modified from the following data.
+Sapporo (Hokkaido Pref.): The input-output table has been modified from the following data.
     Sapporo City Input-Output Table 2015 (https://www.city.sapporo.jp/toukei/sna/sna.html), Sapporo City, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
-Saitama(Saitama): The input-output table has been modified from the following data.
-    Saitama City Input-Output Table 2015 (https://www.city.saitama.lg.jp/006/013/007/p079996.html), Saitama City, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
-Yokohama(Kanagawa): The input-output table has been modified from the following data.
+Saitama (Saitama Pref.): The input-output table has been modified from the following data.
+    Saitama City Input-Output Table 2015 (https://www.city.saitama.lg.jp/006/013/007/p079996.html)
+Chiba (Chiba Pref.): The input-output table has been modified from the following data.
+    Chiba City Input-Output Table 2015 (https://www.city.chiba.jp/sogoseisaku/sogoseisaku/kikaku/tokei/27renkan.html), Chiba City, CC BY 2.1.（http://creativecommons.org/licenses/by/2.1/jp/）
+Yokohama (Kanagawa Pref.): The input-output table has been modified from the following data.
     Yokohama City Input-Output Table 2015 (https://www.city.yokohama.lg.jp/business/kigyoshien/tokei-chosa/rennkannhyou.html), Yokohama City, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
-Kawasaki(Kanagawa): The input-output table has been modified from the following data.
+Kawasaki (Kanagawa Pref.): The input-output table has been modified from the following data.
     Kawasaki City Input-Output Table 2015 (https://www.city.kawasaki.jp/shisei/category/51-4-6-2-6-0-0-0-0-0.html), Kawasaki City, CC BY 2.1 JP.（http://creativecommons.org/licenses/by/2.1/jp/）
-Gujo(Gifu): The input-output table has been modified from the following data.
+Sagamihara (Kanagawa Pref.): The input-output table has been modified from the following data.
+    Sagamihara City Input-Output Table 2015 (https://www.city.sagamihara.kanagawa.jp/shisei/toukei/1023641.html)
+Gujo (Gifu Pref.): The input-output table has been modified from the following data.
     Gujo City Input-Output Table 2015 (https://www.city.gujo.gifu.jp/admin/info/post-859.html)
-Okayama(Okayama): The input-output table has been modified from the following data.
+Shizuoka (Shizuoka Pref.): The input-output table has been modified from the following data.
+    Shizuoka City Input-Output Table 2015 (https://www.city.shizuoka.lg.jp/s2859/s003788.html)
+Kyoto (Kyoto Pref.): The input-output table has been modified from the following data.
+    Kyoto City Input-Output Table 2015 (https://www.city.kyoto.lg.jp/sankan/page/0000296287.html)
+Okayama (Okayama Pref.): The input-output table has been modified from the following data.
     Okayama City Input-Output Table 2015 (https://www.city.okayama.jp/shisei/0000019899.html), Okayama City, CC BY 4.0.（https://creativecommons.org/licenses/by/4.0/deed.ja）
-Fukuoka(Fukuoka): The input-output table has been modified from the following data.
+Hiroshima (Hiroshima Pref.): The input-output table has been modified from the following data.
+    Hiroshima City Input-Output Table 2015 (https://www.city.hiroshima.lg.jp/shisei/toukei/1027863/1027864/1008705.html)
+Fukuoka (Fukuoka Pref.): The input-output table has been modified from the following data.
     Fukuoka City Input-Output Table 2015 (https://www.city.fukuoka.lg.jp/soki/tokeichosa/shisei/toukei/renkanhyo/sangyorenkanhyo.html)
