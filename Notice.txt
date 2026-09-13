@@ -1,5 +1,6 @@
-The data on which the explanatory variables are based were obtained from the following websites.
+Macroeconomic data used in our studies were obtained from the following websites.
     Portal Site of Official Statistics of Japan website (https://www.e-stat.go.jp/)
+    Regional Statistics Database (System of Social and Demographic Statistics) (https://www.e-stat.go.jp/en/regional-statistics/ssdsview)
 
 The input-output table data for each region have been reclassified into 12 industry categories.
 The sources are as follows:
@@ -7,7 +8,7 @@ The sources are as follows:
 Japan: The input-output table has been modified from the following data.
     Input-Output Table 2015 (https://www.soumu.go.jp/toukei_toukatsu/data/io/ichiran.htm)
 
-Prefecture
+Prefecture:
 Hokkaido: The input-output table has been modified from the following data.
     Hokkaido Input-Output Table 2015 (https://www.hkd.mlit.go.jp/ky/ki/keikaku/u23dsn0000001ma0.html)
 Aomori: The input-output table has been modified from the following data.

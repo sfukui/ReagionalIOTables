@@ -1,4 +1,4 @@
-# Dataset for regional input-output tables estimation in Japan
+# Dataset for regional input-output tables estimation of Japan
 
 ## About this project
 
@@ -9,10 +9,10 @@ In this project, we provide the input-output tables and macroeconomic data of th
 
 ## Getting started
 
-The CSV files are stored in the `Data` folder.
+CSV files are stored in the `Data` folder.
 The contents of each file are as follows:
 
-* **[2015Data_Japan.csv](Data/2015Data_Japan.csv)** Each item (in units of 1 million Japanese yen) of the input-output tables and Macroeconomic data for Japan as a whole, its prefectures, and its cities that were the subject of the above studies
+* **[2015Data_Japan.csv](Data/2015Data_Japan.csv):** Each item (in units of 1 million Japanese yen) of the input-output tables and Macroeconomic data for Japan as a whole, its prefectures, and its cities that were the subject of the above studies
 * **[AreaID.csv](Data/AreaID.csv):** Correspondence table between region IDs (`AreaID`) and region names
 
 ## Usage
@@ -26,9 +26,9 @@ The data file "[2015Data_Japan.csv](Data/2015Data_Japan.csv)"records regional da
 The file "[2015Data_Japan.csv](Data/2015Data_Japan.csv)" contains input-output tables for some regions of Japan.
 
 The column `A_[i]_[j]` records intermediate inputs from industry `i` to industry `j`.
-The column `D_[i]_[d]` represents sales from industry `i` to final demand sector `d`, and `M_[i]` represents imports and inflow into industry `i`.
+The column `D_[i]_[d]` represents sales from industry `i` to final demand sector `d`, and `M_[i]` represents imports and inflow in industry `i`.
 The column `V_[i]_[g]` represents inputs from industry `i` to gross value added sector `g`.
-Moreover, the column `Y_[i]` records gross products of industry i.
+Moreover, the column `Y_[i]` records gross products of industry `i`.
 
 The tables below show the correspondence between `i`, `j`, `d`, and `g` and each industry and sector.
 
@@ -69,7 +69,7 @@ The tables below show the correspondence between `i`, `j`, `d`, and `g` and each
 
 The regional macroeconomic data used as the basis for the explanatory variables in our research are also recorded in each column of the "[2015Data_Japan.csv](Data/2015Data_Japan.csv)" file. The details of each column are as follows:
 
-| Name | Data | Source |
+| Column | Data | Source |
 | --- | --- | --- |
 |`Firm_[id_l]` | Number of establishments 2014 Economic Census (major classification) | 2014 Economic Census for Business Frame |
 |`SFirm_[id_s]` | Number of establishments (minor classification) | Ibid. |
@@ -88,7 +88,7 @@ The regional macroeconomic data used as the basis for the explanatory variables 
 |`Pop15` | Population aged 15 and over | Ibid. |
 
 
-[_Note:_]
+_Note:_
 * The Ministry of Agriculture, Forestry and Fisheries has estimated `ProductsCr` and `ProductsAn` of each city.
 * `Pop15` were calculated by the author based on the source data.
 * As shown in the table above, the citations for the data, `VA_[id_l]`, `Sales_[id_l]`, and `Firm_[id_l]`, in Table 1 of [the original paper](https://link.springer.com/article/10.1007/s10614-024-10641-1) have been corrected. These corrections do not affect the original paper's analysis results.
@@ -120,11 +120,13 @@ The `id_l` contained in some column names indicates the industry of the large in
 ### Small industry classification
 
 The `id_s` contained in some column names indicates the industry of the small industry classification in the Economic Census of Japan.
+
 For information on the `id_s`, please refer to the Ministry of Internal Affairs and Communications website. (https://www.soumu.go.jp/english/dgpp_ss/seido/sangyo/index13.htm)
 
 ### Industry categorization of Building Starts
 
-For `CFArea_[id_lb]`, `id_lb` means industry in the categorization of the Building Starts. In "[2015Data_Japan.csv](Data/2015Data_Japan.csv)", `id_lb` covers the categories from "d. Agricultural, forestry and fishery buildings" to "r. Buildings that can not be included in other categories".
+For `CFArea_[id_lb]`, `id_lb` means industry in the categorization of the Building Starts. In "[2015Data_Japan.csv](Data/2015Data_Japan.csv)", `id_lb` covers the categories from "d. Agricultural, forestry and fishery buildings" (`CFArea_D`) to "r. Buildings that can not be included in other categories" (`CFArea_R`).
+
 For details, please refer to "3) Types of Dwellings and Industries," Section 3, Chapter 2 of the Ministry of Land, Infrastructure, Transport and Tourism's "[Construction Statistics Guidebook](https://www.mlit.go.jp/toukeijouhou/chojou/csg/csg_f.htm)."
 
 ## Contact

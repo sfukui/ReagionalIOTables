@@ -42,10 +42,15 @@ AreaID,AreaName
 44000,Oita
 45000,Miyazaki
 46000,Kagoshima
-01100,Sapporo(Hokkaido)
-11100,Saitama(Saitama)
-14100,Yokohama(Kanagawa)
-14130,Kawasaki(Kanagawa)
-21219,Gujo(Gifu)
-33100,Okayama(Okayama)
-40130,Fukuoka(Fukuoka)
+01100,Sapporo (Hokkaido)
+11100,Saitama (Saitama)
+12100,Chiba (Chiba)
+14100,Yokohama (Kanagawa)
+14130,Kawasaki (Kanagawa)
+14150,Sagamihara (Kanagawa)
+21219,Gujo (Gifu)
+22100,Shizuoka (Shizuoka)
+26100,Kyoto (Kyoto)
+33100,Okayama (Okayama)
+34100,Hiroshima (Hiroshima)
+40130,Fukuoka (Fukuoka)
